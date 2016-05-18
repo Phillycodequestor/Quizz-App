@@ -1,0 +1,23 @@
+html {
+background-color: #061C24;
+}
+
+div {
+
+/*outline: .5px solid white;*/
+}
+
+h1, h2, p {
+text-align: center;
+color: white;
+}
+
+.billboard {
+width:  100%;
+height: auto;
+margin-top: 10rem;
+box-sizing: border-box;
+padding-top: 10rem; 
+}
+
+ 
